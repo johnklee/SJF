@@ -1,0 +1,12 @@
+.UNDERLINE{
+	text-decoration:none;
+	background: url(/SJF/Images/underline.png) repeat-x 100% 100%;
+	padding-bottom: 0px;
+	font-weight:bold;
+}
+.UD{
+	line-height:22px; padding:4px 2px 2px 0px;
+	letter-spacing:2px; 
+	background:url(/SJF/Images/underline.png) repeat-x bottom;
+	font-weight:bold;
+}

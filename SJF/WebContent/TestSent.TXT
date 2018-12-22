@@ -1,0 +1,44 @@
+﻿今天要到国际会议中心，洽谈一笔户外广告的生意。
+新同事跟大家相处得非常融恰。
+他操着砂哑的嗓音唱了一首歌。
+中秋节寄来的礼物很帖心。
+夜幂慢慢降临了。
+原来你才是幂后黑手。
+好东西一直是凤毛鳞角的。
+
+我对这件事真是煞废苦心。
+村里出现了许多欣欣向荣的景象。
+科研人员能够更好的解决许多创新中产生的状况。
+步行运动康复了我的疾病。
+解放军多次抢险救灾，保护了人民群众生命财产的安全。
+实际生产的量超过了计划的百分之百。
+上次我对你照顾得太不周全。
+犹如山洪爆发一样凶猛。
+我是全国手屈一指的神童。
+
+
+結婚以後他們很恩情。
+您從這兒走往北。
+我沒有來過這兒以前。
+什麼你教。
+
+Done
+===========================================
+===========================================
+1. Article with response at same page
+2. Feedback of each evaluation.
+3. Log query and response
+6. Log User IP...Done
+7. Feedback only thumbup/down...Done
+8. Move category to sentence head...Done
+
+
+To Do
+===========================================
+4. User information (later)
+5. 問卷 (問題: 中文程度/英文程度 etc)
+9. Report for latest 10 submission
+10. Move thumbup/down left align.
+
+
+- 515 簡體跑規則
